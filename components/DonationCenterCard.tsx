@@ -1,5 +1,6 @@
 import { DonationCenter } from "@/types";
 import { formatDistance } from "@/lib/utils/distance";
+import { googleMapsDirectionsUrl } from "@/lib/utils/maps";
 
 export default function DonationCenterCard({
   center,
@@ -51,6 +52,14 @@ export default function DonationCenterCard({
       {center.notes && (
         <p className="mt-2 text-xs text-neutral-500">{center.notes}</p>
       )}
+      <a
+        href={googleMapsDirectionsUrl(center.latitude, center.longitude)}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="mt-3 inline-flex min-h-[36px] items-center justify-center rounded-md bg-brand-navy px-3 py-1.5 text-sm font-semibold text-white hover:bg-brand-navy/90"
+      >
+        Get directions
+      </a>
     </div>
   );
 }

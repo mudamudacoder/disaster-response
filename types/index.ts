@@ -47,6 +47,14 @@ export type NewDonationCenter = Pick<
     Pick<DonationCenter, "registration_number" | "website" | "notes">
   >;
 
+export interface GeoDonationCenter {
+  id: string;
+  name: string;
+  description: string | null;
+  latitude: number;
+  longitude: number;
+}
+
 export interface OfficialUpdate {
   id: string;
   title: string;

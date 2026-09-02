@@ -1,61 +1,41 @@
 import Link from "next/link";
 import { createClient } from "@/lib/supabase/server";
-import { DisasterStatistic, MaterialNeeded, OfficialUpdate } from "@/types";
-import StatCard, { UnavailableStatCard } from "@/components/StatCard";
+import { MaterialNeeded, OfficialUpdate } from "@/types";
 import UpdateCard from "@/components/UpdateCard";
 import MaterialCard from "@/components/MaterialCard";
 import PMReliefFund from "@/components/PMReliefFund";
 
 export const dynamic = "force-dynamic";
 
-const CORE_CATEGORIES = [
-  "deaths",
-  "rescued",
-  "missing",
-  "injured",
-  "affected_people",
-  "affected_households",
-];
-
 async function getHomepageData() {
   try {
     const supabase = createClient();
 
-    const [{ data: stats }, { data: updates }, { data: materials }] =
-      await Promise.all([
-        supabase
-          .from("disaster_statistics")
-          .select("*")
-          .order("reported_at", { ascending: false }),
-        supabase
-          .from("official_updates")
-          .select("*")
-          .order("published_at", { ascending: false })
-          .limit(3),
-        supabase
-          .from("materials_needed")
-          .select("*")
-          .order("reported_at", { ascending: false })
-          .limit(6),
-      ]);
+    const [{ data: updates }, { data: materials }] = await Promise.all([
+      supabase
+        .from("official_updates")
+        .select("*")
+        .order("published_at", { ascending: false })
+        .limit(3),
+      supabase
+        .from("materials_needed")
+        .select("*")
+        .order("reported_at", { ascending: false })
+        .limit(6),
+    ]);
 
     return {
-      stats: (stats ?? []) as DisasterStatistic[],
       updates: (updates ?? []) as OfficialUpdate[],
       materials: (materials ?? []) as MaterialNeeded[],
       error: false,
     };
   } catch {
-    return { stats: [], updates: [], materials: [], error: true };
+    return { updates: [], materials: [], error: true };
   }
 }
 
-function latestByCategory(stats: DisasterStatistic[], category: string) {
-  return stats.find((s) => s.category === category) ?? null;
-}
-
 export default async function HomePage() {
-  const { stats, updates, materials, error } = await getHomepageData();
+  const { updates, materials, error } = await getHomepageData();
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-6">
@@ -64,8 +44,7 @@ export default async function HomePage() {
           Nepal Disaster Relief Information
         </h1>
         <p className="mt-1 text-sm text-neutral-600">
-          A centralized, source-linked portal for official disaster
-          information and verified donation centers in Nepal.
+          A centralized, source-linked portal for finding and contributing to disaster relief efforts in Nepal.
         </p>
       </section>
 
@@ -76,23 +55,21 @@ export default async function HomePage() {
         </div>
       )}
 
-      <section className="mt-6">
-        <h2 className="text-lg font-bold text-neutral-900">
-          Emergency Information
+      <section className="mt-6 rounded-lg border border-brand-navy/10 bg-brand-navy/5 p-6 text-center">
+        <p className="text-sm font-semibold uppercase tracking-wide text-brand-crimson">
+          Rebuild. Recover. Restore.
+        </p>
+        <img src="/Flag_of_Nepal.gif" alt="Flag of Nepal" className="mx-auto mt-4 h-16 w-16" />
+        <h2 className="mt-2 text-xl font-bold text-neutral-900">
+          Every donation brings someone closer to recovery.
+          <br /><p className="text-sm text-neutral-600">+ Aura Maxxing</p>
         </h2>
-        <div className="mt-3 grid grid-cols-2 gap-3 sm:grid-cols-3">
-          {CORE_CATEGORIES.map((category) => {
-            const stat = latestByCategory(stats, category);
-            return stat ? (
-              <StatCard key={category} stat={stat} />
-            ) : (
-              <UnavailableStatCard
-                key={category}
-                label={category.replace(/_/g, " ")}
-              />
-            );
-          })}
-        </div>
+        <Link
+          href="/donation-centers"
+          className="mt-4 inline-block min-h-[44px] rounded-md bg-brand-crimson px-6 py-2.5 font-semibold text-white hover:bg-brand-crimsonDark"
+        >
+          Find Donation Centers
+        </Link>
       </section>
 
       <section className="mt-8">

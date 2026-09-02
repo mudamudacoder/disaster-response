@@ -1,0 +1,895 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3249037,
+          27.6718438
+        ]
+      },
+      "properties": {
+        "name": "Ram Pharma",
+        "description": "9am - 8pm\nCollecting Until: 5th September\nDM @usk.kathmandu on instagram before dropping by\n\n*art supplies\n* child-friendly items to support children affected by the recent floods in Nepal. \n\n* paper-based\n* reusable\n* simple creative materials such as crayons, colour pencils, colouring books, drawing paper, sketchbooks and puzzles."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4241435,
+          27.6723547
+        ]
+      },
+      "properties": {
+        "name": "MĀTAN GALLERY",
+        "description": "11am - 5pm\nCollecting Until: 4th September\nDM @usk.kathmandu on instagram before dropping by\n\n*art supplies\n* child-friendly items to support children affected by the recent floods in Nepal. \n\n* paper-based\n* reusable\n* simple creative materials such as crayons, colour pencils, colouring books, drawing paper, sketchbooks and puzzles."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.326465,
+          27.6818002
+        ]
+      },
+      "properties": {
+        "name": "Sustainable Mountain Architecture",
+        "description": "11am - 5pm\nCollecting Until: 4th September\nDM @usk.kathmandu on instagram before dropping by\n\n*art supplies\n* child-friendly items to support children affected by the recent floods in Nepal. \n\n* paper-based\n* reusable\n* simple creative materials such as crayons, colour pencils, colouring books, drawing paper, sketchbooks and puzzles."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.30372,
+          27.728307
+        ]
+      },
+      "properties": {
+        "name": "Hami Nepal New Drop-off Center",
+        "description": "Solar Lights\nPowerbanks\nTent, Tarpauline\nWater Purifier Tablets\nCooking Utensils\nBolero Vehicles\n\nRice\nLentils \nSalt\nCooking Oil\nMedicine\nSanitary Pads\nMattresses\nNew Blankets"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2971017,
+          27.7136301
+        ]
+      },
+      "properties": {
+        "name": "sayummy's (bakery/cookie cafe)",
+        "description": "Contact: +9779808238043\n\n✅ Clean, wearable clothes (all ages/sizes)\n✅ Warm layers, jackets, and blankets\n❌ Please ensure items are clean and in good condition before dropping them off."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3100494,
+          27.6808872
+        ]
+      },
+      "properties": {
+        "name": "Base Camp: Outdoor Lifestyle",
+        "description": "Contact: +9779808238043\n\n✅ Clean, wearable clothes (all ages/sizes)\n✅ Warm layers, jackets, and blankets\n❌ Please ensure items are clean and in good condition before dropping them off."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3204456,
+          27.7220732
+        ]
+      },
+      "properties": {
+        "name": "The Liquor Store (next to NIC Asia)",
+        "description": "Contact: +9779808238043\n\n✅ Clean, wearable clothes (all ages/sizes)\n✅ Warm layers, jackets, and blankets\n❌ Please ensure items are clean and in good condition before dropping them off."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3324079,
+          27.7128761
+        ]
+      },
+      "properties": {
+        "name": "Yak Brewing Company Pvt Ltd",
+        "description": "Contact: +9779808238043\n\n✅ Clean, wearable clothes (all ages/sizes)\n✅ Warm layers, jackets, and blankets\n❌ Please ensure items are clean and in good condition before dropping them off."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3304212,
+          27.7364789
+        ]
+      },
+      "properties": {
+        "name": "Good Old Center",
+        "description": "Contact: 9861914799 (Sajina)\n\n*Clothes: Accepting new and old clothes but please make sure old clothes are WASHED and in GOOD CONDITION\n\n* Women care kits (menstrual pads, maternal necessities such as diapers etc.)\n\n* Medical Supplies\n\n* Other Essentials (Tarp, flashlights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2821098,
+          27.7146814
+        ]
+      },
+      "properties": {
+        "name": "Salt And Pepper Cafe",
+        "description": "* Baby Clothes\n* Towels\n* Blankets/shawls\n* Baby bedding\n* Diapers (kids and adults)\n* Baby Wipes\n* Baby bottles, in good condiiton\n* Baby Toiletries\n* Gently used toys in good condition\n* Books, crayons and other simple activities\n* Comfortable/postpartum clothing\n* Sanitary/postpartum pads\n* Hand Sanitizer\n\nPlease don't donate anything you wouldn't give your own child!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2855906,
+          27.7150428
+        ]
+      },
+      "properties": {
+        "name": "Maybe Mars Studio Cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3132754,
+          27.7149012
+        ]
+      },
+      "properties": {
+        "name": "Petals Cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3682278,
+          27.7266046
+        ]
+      },
+      "properties": {
+        "name": "SoDaana Boudha Tinchuli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.305756,
+          27.6818934
+        ]
+      },
+      "properties": {
+        "name": "EDEN SANEPA",
+        "description": "* Baby Clothes\n* Towels\n* Blankets/shawls\n* Baby bedding\n* Diapers (kids and adults)\n* Baby Wipes\n* Baby bottles, in good condiiton\n* Baby Toiletries\n* Gently used toys in good condition\n* Books, crayons and other simple activities\n* Comfortable/postpartum clothing\n* Sanitary/postpartum pads\n* Hand Sanitizer\n\nPlease don't donate anything you wouldn't give your own child!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3462353,
+          27.7346197
+        ]
+      },
+      "properties": {
+        "name": "Jump KTM Indoor Trampoline Park",
+        "description": "Contact: +9779803747095\nAccepting until Monday August 31\n\nClean, good-condition clothing for adults and babies\nSanitary and Hygiene products\nMedical Supplies\nPackaged Foods and Drinking Water"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3101159,
+          27.6830355
+        ]
+      },
+      "properties": {
+        "name": "Jump Jhamsikhel Indoor Trampoline Park",
+        "description": "Contact: +9779803747095\nAccepting until Monday August 31\n\nClean, good-condition clothing for adults and babies\nSanitary and Hygiene products\nMedical Supplies\nPackaged Foods and Drinking Water"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3170736,
+          27.6771375
+        ]
+      },
+      "properties": {
+        "name": "Tutu's World (Labim Mall)",
+        "description": "Contact: +9779803747095\nAccepting until Monday August 31\n\nClean, good-condition clothing for adults and babies\nSanitary and Hygiene products\nMedical Supplies\nPackaged Foods and Drinking Water"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3178105,
+          27.7109629
+        ]
+      },
+      "properties": {
+        "name": "Loveface Beauty",
+        "description": "Contact: +9779803747095\nAccepting until Monday August 31\n\nClean, good-condition clothing for adults and babies\nSanitary and Hygiene products\nMedical Supplies\nPackaged Foods and Drinking Water"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.312949,
+          27.6993241
+        ]
+      },
+      "properties": {
+        "name": "Playroom",
+        "description": "Contact: +9779803747095\nAccepting until Monday August 31\n\nClean, good-condition clothing for adults and babies\nSanitary and Hygiene products\nMedical Supplies\nPackaged Foods and Drinking Water"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3320745,
+          27.6738814
+        ]
+      },
+      "properties": {
+        "name": "Jyapu Samaj",
+        "description": "Clothes & Utilities (old but clean and well maintained clothes accepted), medical items, food and drinks, wash and hygiene materials\n\n+9779805391325 || +9779747833720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3338989,
+          27.6699275
+        ]
+      },
+      "properties": {
+        "name": "Kathmandu University School of Management",
+        "description": "Clothes & Utilities (old but clean and well maintained clothes accepted), medical items, food and drinks, wash and hygiene materials\n\n+9779805391325 || +9779747833720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3350834,
+          27.6474505
+        ]
+      },
+      "properties": {
+        "name": "Kathmandu University School of Education, Hattiban Lalitpur",
+        "description": "Clothes & Utilities (old but clean and well maintained clothes accepted), medical items, food and drinks, wash and hygiene materials\n\n+9779805391325 || +9779747833720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3349546,
+          27.6472149
+        ]
+      },
+      "properties": {
+        "name": "Kathmandu University School of Arts",
+        "description": "Clothes & Utilities (old but clean and well maintained clothes accepted), medical items, food and drinks, wash and hygiene materials\n\n+9779805391325 || +9779747833720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3110018,
+          27.6773289
+        ]
+      },
+      "properties": {
+        "name": "The Pump Jhamsikhel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.345838,
+          27.7232361
+        ]
+      },
+      "properties": {
+        "name": "The Pump Chabahil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3164375,
+          27.6780625
+        ]
+      },
+      "properties": {
+        "name": "Prettyclick Cosmetics Pulchowk",
+        "description": "Deadline: 4th September\n\nCollecting:\n🍚 Packaged food\n💧 Drinking water\n⛺ Tents\n🧥 Clothing\n🛏️ Blankets\n🧼 Hygiene products\n👶 Baby supplies"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3124726,
+          27.6991311
+        ]
+      },
+      "properties": {
+        "name": "PrettyClick Cosmetics Civil Mall",
+        "description": "Deadline: 4th September\n\nCollecting:\n🍚 Packaged food\n💧 Drinking water\n⛺ Tents\n🧥 Clothing\n🛏️ Blankets\n🧼 Hygiene products\n👶 Baby supplies"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3190008,
+          27.7098059
+        ]
+      },
+      "properties": {
+        "name": "PrettyClick Cosmetics, Tindhara Marg",
+        "description": "Deadline: 4th September\n\nCollecting:\n🍚 Packaged food\n💧 Drinking water\n⛺ Tents\n🧥 Clothing\n🛏️ Blankets\n🧼 Hygiene products\n👶 Baby supplies"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3519923,
+          27.7192385
+        ]
+      },
+      "properties": {
+        "name": "Prettyclick Cosmetics",
+        "description": "Deadline: 4th September\n\nCollecting:\n🍚 Packaged food\n💧 Drinking water\n⛺ Tents\n🧥 Clothing\n🛏️ Blankets\n🧼 Hygiene products\n👶 Baby supplies"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3179148,
+          27.7354043
+        ]
+      },
+      "properties": {
+        "name": "PrettyClick Cosmetics, Samakhusi",
+        "description": "Deadline: 4th September\n\nCollecting:\n🍚 Packaged food\n💧 Drinking water\n⛺ Tents\n🧥 Clothing\n🛏️ Blankets\n🧼 Hygiene products\n👶 Baby supplies"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3315526,
+          27.7203689
+        ]
+      },
+      "properties": {
+        "name": "Bagaichā",
+        "description": "📦 Most needed right now:\nDry & packaged food · Drinking water · Blankets & warm clothing · New clothes · Sanitary & hygiene products · Baby essentials · Basic household necessities\n\n📍 Drop-off Point: Bagaichā, Baluwatar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3206094,
+          27.6946875
+        ]
+      },
+      "properties": {
+        "name": "Maitighar Mandala (Fiba Khya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2785797,
+          27.7102013
+        ]
+      },
+      "properties": {
+        "name": "Karmayog Foundation",
+        "description": "Note: Location is approximate!\n\nCollecting: Solar Lights,  Power Bank, Small Portable Water Filters, Mattress , Kids Toys (NEW ONLY)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.380519,
+          27.6745106
+        ]
+      },
+      "properties": {
+        "name": "Wosa Wears",
+        "description": "Contact: 9749878115\n\n*Clothes: Accepting new and old clothes but please make sure old clothes are WASHED and in GOOD CONDITION\n\n* Women care kits (menstrual pads, maternal necessities such as diapers etc.)\n\n* Food (Dry food)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.298102,
+          27.7225128
+        ]
+      },
+      "properties": {
+        "name": "Charming Durbar Hotel",
+        "description": "Solar Lights, Blankets, First Aid, Dry /Packaged Foods, Sanitary Pads, Clothes, Simple Sandals, Tents, Groceries\n\nContact: 9860088900/ 9843533844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3432821,
+          27.7062065
+        ]
+      },
+      "properties": {
+        "name": "Venkatesh Mandir Devasthan",
+        "description": "contact: 9716318299\n\nUtilities: Blankets, mattresses, tents, tarpaulins, clothes\nAccessories: bulbs, solar lights, generators, power banks, rain coat\nFoods: Biscuits, dry food, noodles, watter\nMedical Kits: Sanitary Pads, First Aid Box, Paracetamols, Bandages"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3283583,
+          27.7112529
+        ]
+      },
+      "properties": {
+        "name": "Café Bizarre",
+        "description": "Contact: 9813121465\nCollecting until Aug 29 Noon\n\nFood :(dry, noodles, biscuits, grains, pulses)\nClean, dry clothes\nBlankets\nTowels\nRaincoats\nTarpaulins/Plastic Sheet\nMosquito Coil\nFlashlight/Headlight\nBasic hygiene kits\nDiapers\nMasks\nORS packets\nSoap\nHand sanitizer\nGauze, bandages, antiseptic\nDrinking water\nCooking oil, salt, sugar \nSolar lights\nGenerator"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3379838,
+          27.6563205
+        ]
+      },
+      "properties": {
+        "name": "FitNation Gym Imadol",
+        "description": "Contact: 9813121465\nCollecting until Aug 29 Noon\n\nFood :(dry, noodles, biscuits, grains, pulses)\nClean, dry clothes\nBlankets\nTowels\nRaincoats\nTarpaulins/Plastic Sheet\nMosquito Coil\nFlashlight/Headlight\nBasic hygiene kits\nDiapers\nMasks\nORS packets\nSoap\nHand sanitizer\nGauze, bandages, antiseptic\nDrinking water\nCooking oil, salt, sugar \nSolar lights\nGenerator"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2987369,
+          27.6947679
+        ]
+      },
+      "properties": {
+        "name": "FitNation Gym Kuleshwore",
+        "description": "Contact: 9813121465\nCollecting until Aug 29 Noon\n\nFood :(dry, noodles, biscuits, grains, pulses)\nClean, dry clothes\nBlankets\nTowels\nRaincoats\nTarpaulins/Plastic Sheet\nMosquito Coil\nFlashlight/Headlight\nBasic hygiene kits\nDiapers\nMasks\nORS packets\nSoap\nHand sanitizer\nGauze, bandages, antiseptic\nDrinking water\nCooking oil, salt, sugar \nSolar lights\nGenerator"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3344188,
+          27.7031046
+        ]
+      },
+      "properties": {
+        "name": "Fitnation Gym",
+        "description": "Contact: 9813121465\nCollecting until Aug 29 Noon\n\nFood :(dry, noodles, biscuits, grains, pulses)\nClean, dry clothes\nBlankets\nTowels\nRaincoats\nTarpaulins/Plastic Sheet\nMosquito Coil\nFlashlight/Headlight\nBasic hygiene kits\nDiapers\nMasks\nORS packets\nSoap\nHand sanitizer\nGauze, bandages, antiseptic\nDrinking water\nCooking oil, salt, sugar \nSolar lights\nGenerator"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3051954,
+          27.7044658
+        ]
+      },
+      "properties": {
+        "name": "Girls Empowered by Travel-Nepal",
+        "description": "Contact: +9779767488225\n\n* Basic Meditation\n* Tarpaulin\n* Toothpaste and Toothbrushes\n* Sanitary Pads\n* Solar Touch\n* Reusable Utensils\n* Solar Powerbank\n* Solar Torch\n* Light Weight Raincoat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3325873,
+          27.7186714
+        ]
+      },
+      "properties": {
+        "name": "AVANI NEPAL",
+        "description": "Collecting from August 30 onwards\nContact: 9808705505\n\n- Blankets\n- Mats\n- Clothes\n- Food (Biscuits, Noodles, etc.)\n- Water"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2993134,
+          27.7248476
+        ]
+      },
+      "properties": {
+        "name": "Sukhawati Charity Store, Banasthali",
+        "description": "Contact: 9801367282\n\nAccepting from 30 Aug onwards\n\nDonate clothes, food, essential supplies, anything useful for those in need."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3262573,
+          27.6793769
+        ]
+      },
+      "properties": {
+        "name": "British Model College",
+        "description": "NOTE: Please call ahead before coming to donate!\n* Ruja Shakya (Kathmandu)- 9843668879\n* Subigya Godi: Lalitpur: 9763680830\n* Aryan Thakur (Bhaktapur) : 9863692864\n\nAccepting: \n* Wearables: Slippers (used, unused, and good condition)\n* Blankets\n\nFood: Biscuit, Juice, Chiura, Drinking Water\n\nMedical Supplies: Handwash, sanitary pads, bandages, crux bandages, pain relief patches, mosquitor repellant, medical tape"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2940723,
+          27.7118709
+        ]
+      },
+      "properties": {
+        "name": "Swayambhu Community Learning Center",
+        "description": "📅 Collection Deadline: August 29th\n📞 Contact:\n• Prakriti Maharjan: +977 9840528504\n• Kritesh Bhujel: +977 9819340712\n\nWe are collecting:\n👕 Clean & usable clothes\n🩸 Sanitary pads\n📦 Other in-kind donations"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3065011,
+          27.6846438
+        ]
+      },
+      "properties": {
+        "name": "Kalashala",
+        "description": "Date: ONLY ON AUG 29!\nContact: +9779864274965\n\nAccepting:\n• Clean clothes\n• Medicines and basic medical supplies\n• Sanitary and hygiene products\n• Dry/non-perishable food items\n• Bottled water\n• Other essential items that may be useful for affected families"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3414959,
+          27.7316794
+        ]
+      },
+      "properties": {
+        "name": "National College",
+        "description": "currently collecting essential supplies, including:\n• Hygiene and sanitary products\n• Clean clothes\n• Blankets\n• Medical supplies\n• ORS\n• Tarpaulins/plastic sheets\n• Sleeping mats\n• Flashlights\n• Food and basic necessities\n• Basic wound-care supplies for animals\n\nContact: +9779861205110, +9779813819337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3338989,
+          27.6699275
+        ]
+      },
+      "properties": {
+        "name": "Kathmandu University School of Management",
+        "description": "Collecting essential items including:\n\n🍚 Food & Nutrition\n🍼 Women’s & Baby Essentials\n👕 Clothes & Bedding\n\n📍 Collection Point: KUSOM Reception, Balkumari\n📅 Collection Period: August 27, 12 PM – August 28, 5 PM\n\nThey kindly request you to donate new, sealed, clean, and usable items that can be distributed directly to those in need."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3279961,
+          27.6890512
+        ]
+      },
+      "properties": {
+        "name": "King's College Nepal",
+        "description": "September 1 and 2 \nFirst Floor\n7:30am - 10:30am\n\nRice\nDal\nSoya Bean\nSalt\nSattu\nElectrolytes\nMedicines: Cetamol/ Diarlock or Eldroper/ Anti Allergic/ Water Tabs\nUnderwears"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3258934,
+          27.7468915
+        ]
+      },
+      "properties": {
+        "name": "Triyog High School",
+        "description": "9849737863\nCollecting until 4 Sept (8:30am - 3:30pm)\n\n1. Food: Lentils, Rice, Salt, Cooking Oil, Beaten/Puffed Rice, Soyabean, Sattu\n2. Blankets, Bedsheets, Mat/p foam, mosquito nets\n3. water bottles\n4. Warm Clothes, Sanitary Pad/Baby Diapers/ Soap/ Anti-Septic/ Tissue/ Wet wipes/ Mosquito Repellant, Slippers/Gum Boots/ Water purification"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3158744,
+          27.6848934
+        ]
+      },
+      "properties": {
+        "name": "Nextdoor Patan",
+        "description": "Contact:Jenish(9801879444)\n\nShelter Kits:\n* sleeping foam mat: 5 ft wide\n* Tarpaulin, 2pcs\n* Nylon Rope 20m\n* Raincoat , 2pcs\n* Double-size blanket\n* Mosquito Net\n* Solar-powered light\n* Power Bank with adaptor\n\nKitchen Kits:\n* 2-burner steel gas stove - 1pc\n* cooking pot - 1pc\n* 3l pressure cooker - 1pc\n* steel plate * 6pc\n* steel glass * 6 pcs\n* steel bowl * 6pcs\n* steel spoon *6pcs\n* spatula and ladle * 1 each\n* cutting board and knife - 1each"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.339273,
+          27.7085357
+        ]
+      },
+      "properties": {
+        "name": "Nextdoor Kathmandu",
+        "description": "Contact:Jenish(9801879444)\n\nShelter Kits:\n* sleeping foam mat: 5 ft wide\n* Tarpaulin, 2pcs\n* Nylon Rope 20m\n* Raincoat , 2pcs\n* Double-size blanket\n* Mosquito Net\n* Solar-powered light\n* Power Bank with adaptor\n\nKitchen Kits:\n* 2-burner steel gas stove - 1pc\n* cooking pot - 1pc\n* 3l pressure cooker - 1pc\n* steel plate * 6pc\n* steel glass * 6 pcs\n* steel bowl * 6pcs\n* steel spoon *6pcs\n* spatula and ladle * 1 each\n* cutting board and knife - 1each"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3094913,
+          27.7167234
+        ]
+      },
+      "properties": {
+        "name": "Nextdoor Thamel",
+        "description": "Contact:Jenish(9801879444)\n\nShelter Kits:\n* sleeping foam mat: 5 ft wide\n* Tarpaulin, 2pcs\n* Nylon Rope 20m\n* Raincoat , 2pcs\n* Double-size blanket\n* Mosquito Net\n* Solar-powered light\n* Power Bank with adaptor\n\nKitchen Kits:\n* 2-burner steel gas stove - 1pc\n* cooking pot - 1pc\n* 3l pressure cooker - 1pc\n* steel plate * 6pc\n* steel glass * 6 pcs\n* steel bowl * 6pcs\n* steel spoon *6pcs\n* spatula and ladle * 1 each\n* cutting board and knife - 1each"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3607531,
+          27.7237216
+        ]
+      },
+      "properties": {
+        "name": "Shechen Monastery",
+        "description": "+9779841793049 (Khenpo Shelnang)\n\n1. Protein Bar/Snack Bar\n2. Flash Light/ Head Light\n3. Sanitary pads\n4. First Aid Kits: Dettol/ Band Aid/ Bandaes/ Gauze/Cotton\n5. ORS\n6. Whistle\n7. Raincoat\n8. Soaps/Sanitiser\n9. Toothbrush + Paste\n10. Towel\n11. Baby Forumla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3081972,
+          27.6878725
+        ]
+      },
+      "properties": {
+        "name": "4 Corners Pizza",
+        "description": "Dimaya - 9803779943\n\n1. Protein Bar/Snack Bar\n2. Flash Light/ Head Light\n3. Sanitary pads\n4. First Aid Kits: Dettol/ Band Aid/ Bandaes/ Gauze/Cotton\n5. ORS\n6. Whistle\n7. Raincoat\n8. Soaps/Sanitiser\n9. Toothbrush + Paste\n10. Towel\n11. Baby Formula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3108342,
+          27.715091
+        ]
+      },
+      "properties": {
+        "name": "The Last Resort Office",
+        "description": "(prakash bhujel): 9801279089\n\n1. Protein Bar/Snack Bar\n2. Flash Light/ Head Light\n3. Sanitary pads\n4. First Aid Kits: Dettol/ Band Aid/ Bandaes/ Gauze/Cotton\n5. ORS\n6. Whistle\n7. Raincoat\n8. Soaps/Sanitiser\n9. Toothbrush + Paste\n10. Towel\n11. Baby Formula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2148935,
+          27.6963664
+        ]
+      },
+      "properties": {
+        "name": "HIKERS’ CAFE STUDIO",
+        "description": "Prasanna Gopali: 9851222513\n\n1. Protein Bar/Snack Bar\n2. Flash Light/ Head Light\n3. Sanitary pads\n4. First Aid Kits: Dettol/ Band Aid/ Bandaes/ Gauze/Cotton\n5. ORS\n6. Whistle\n7. Raincoat\n8. Soaps/Sanitiser\n9. Toothbrush + Paste\n10. Towel\n11. Baby Formula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3110371,
+          27.6774967
+        ]
+      },
+      "properties": {
+        "name": "Himalayan Java Coffee - Gyanmandala",
+        "description": "(khesma raj adhikari) 9745944006 /9868551129\n\n1. Protein Bar/Snack Bar\n2. Flash Light/ Head Light\n3. Sanitary pads\n4. First Aid Kits: Dettol/ Band Aid/ Bandaes/ Gauze/Cotton\n5. ORS\n6. Whistle\n7. Raincoat\n8. Soaps/Sanitiser\n9. Toothbrush + Paste\n10. Towel\n11. Baby Formula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3373213,
+          27.6444648
+        ]
+      },
+      "properties": {
+        "name": "Mount View Residency Housing Society",
+        "description": "Sanjog Rai: 9818138388\n\n1. Protein Bar/Snack Bar\n2. Flash Light/ Head Light\n3. Sanitary pads\n4. First Aid Kits: Dettol/ Band Aid/ Bandaes/ Gauze/Cotton\n5. ORS\n6. Whistle\n7. Raincoat\n8. Soaps/Sanitiser\n9. Toothbrush + Paste\n10. Towel\n11. Baby Formula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3327286,
+          27.693378
+        ]
+      },
+      "properties": {
+        "name": "Mandala Theatre Nepal",
+        "description": "(Pragya) 9742482518\n\n1. Protein Bar/Snack Bar\n2. Flash Light/ Head Light\n3. Sanitary pads\n4. First Aid Kits: Dettol/ Band Aid/ Bandaes/ Gauze/Cotton\n5. ORS\n6. Whistle\n7. Raincoat\n8. Soaps/Sanitiser\n9. Toothbrush + Paste\n10. Towel\n11. Baby Formula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3954478,
+          27.7168517
+        ]
+      },
+      "properties": {
+        "name": "Griham Restaurant",
+        "description": "(Krishna) 9828270796\n\n1. Protein Bar/Snack Bar\n2. Flash Light/ Head Light\n3. Sanitary pads\n4. First Aid Kits: Dettol/ Band Aid/ Bandaes/ Gauze/Cotton\n5. ORS\n6. Whistle\n7. Raincoat\n8. Soaps/Sanitiser\n9. Toothbrush + Paste\n10. Towel\n11. Baby Formula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3088972,
+          27.6777759
+        ]
+      },
+      "properties": {
+        "name": "The Gardens Jhamsikhel",
+        "description": "(AJ) 9823371005\n\n1. Protein Bar/Snack Bar\n2. Flash Light/ Head Light\n3. Sanitary pads\n4. First Aid Kits: Dettol/ Band Aid/ Bandaes/ Gauze/Cotton\n5. ORS\n6. Whistle\n7. Raincoat\n8. Soaps/Sanitiser\n9. Toothbrush + Paste\n10. Towel\n11. Baby Formula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.341565,
+          27.6826505
+        ]
+      },
+      "properties": {
+        "name": "Makai Ghar (Nepali Chulo)",
+        "description": "9808384974\n\n1. Protein Bar/Snack Bar\n2. Flash Light/ Head Light\n3. Sanitary pads\n4. First Aid Kits: Dettol/ Band Aid/ Bandaes/ Gauze/Cotton\n5. ORS\n6. Whistle\n7. Raincoat\n8. Soaps/Sanitiser\n9. Toothbrush + Paste\n10. Towel\n11. Baby Formula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3065757,
+          27.6830038
+        ]
+      },
+      "properties": {
+        "name": "International Club",
+        "description": "9801068134\n\n1. Protein Bar/Snack Bar\n2. Flash Light/ Head Light\n3. Sanitary pads\n4. First Aid Kits: Dettol/ Band Aid/ Bandaes/ Gauze/Cotton\n5. ORS\n6. Whistle\n7. Raincoat\n8. Soaps/Sanitiser\n9. Toothbrush + Paste\n10. Towel\n11. Baby Formula"
+      }
+    }
+  ]
+}
